@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/TipCalculator/static/css/main.73977868.chunk.css",
+    "main.js": "/TipCalculator/static/js/main.7eaad1cc.chunk.js",
+    "main.js.map": "/TipCalculator/static/js/main.7eaad1cc.chunk.js.map",
+    "runtime-main.js": "/TipCalculator/static/js/runtime-main.57c9df16.js",
+    "runtime-main.js.map": "/TipCalculator/static/js/runtime-main.57c9df16.js.map",
+    "static/js/2.5117ce93.chunk.js": "/TipCalculator/static/js/2.5117ce93.chunk.js",
+    "static/js/2.5117ce93.chunk.js.map": "/TipCalculator/static/js/2.5117ce93.chunk.js.map",
+    "static/js/3.b8d8b1f1.chunk.js": "/TipCalculator/static/js/3.b8d8b1f1.chunk.js",
+    "static/js/3.b8d8b1f1.chunk.js.map": "/TipCalculator/static/js/3.b8d8b1f1.chunk.js.map",
+    "index.html": "/TipCalculator/index.html",
+    "static/css/main.73977868.chunk.css.map": "/TipCalculator/static/css/main.73977868.chunk.css.map",
+    "static/js/2.5117ce93.chunk.js.LICENSE.txt": "/TipCalculator/static/js/2.5117ce93.chunk.js.LICENSE.txt",
+    "static/media/icon-dollar.9f9be353.svg": "/TipCalculator/static/media/icon-dollar.9f9be353.svg",
+    "static/media/icon-person.65bfd204.svg": "/TipCalculator/static/media/icon-person.65bfd204.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.57c9df16.js",
+    "static/js/2.5117ce93.chunk.js",
+    "static/css/main.73977868.chunk.css",
+    "static/js/main.7eaad1cc.chunk.js"
+  ]
+}
